@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">DroidSkin for ANeko</string>
+
+  <string name="skin_name">ドロイドくん</string>
+
+  <string name="msg_usage">ANekoの設定からスキンを選択してください。</string>
+  <string name="msg_no_package">これはANeko用のスキンです。\n使用するにはANekoをインストールし、スキンを選択してください。</string>
+
+  <string name="msg_unexpected_err">何かがおかしい。</string>
+</resources>
